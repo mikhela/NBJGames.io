@@ -1,0 +1,452 @@
+* {
+    font-family: Montserrat-bold;
+}
+.navbar {
+    width: 100%;
+    
+}
+@font-face {
+    font-family: Montserrat-for-main;
+    src: url(/font-family/MontserratAlternates-ExtraBold.ttf);
+}
+@font-face {
+    font-family: Montserrat-bold;
+    src: url(/font-family/MontserratAlternates-Black.ttf);
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(/font-family/MontserratAlternates-ExtraLight.ttf);
+}
+.nav-link {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Montserrat !important;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.search {
+    margin-top: 12px;
+    margin-left: 15px;
+    height: 14px !important;
+}
+.buy {
+    margin-top: 12px;
+    margin-left: 44px;
+    height: 14px !important;
+}
+.first-a {
+    border-bottom: 2px solid white;
+}
+.navbar-nav li a {
+    transition: all .3s;
+}
+.navbar-nav li a:hover {
+    border-bottom: 2px solid white;
+}
+.button {
+    margin-left: 26.28px;
+    background-color: white !important;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+.button:hover {
+    color: black !important;
+}
+.container {
+    max-width: 1172px;
+}
+
+.header-main-text {
+    position: relative;
+    max-width: 1081px;
+    margin: auto;
+    margin-top: 281px;
+}
+.discover {
+    font-family: Montserrat-for-main;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+.header-main-text-under {
+    position: relative;
+    width: 1081px;
+    margin: auto;
+    margin-top: 60px;
+}
+.make {
+    font-family: Montserrat-for-main;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.buttons-box {
+    max-width: 27rem;
+    margin: auto;
+}
+.btn-1 {
+    margin-right: 21px;
+    width: 230px;
+    height: 34px;
+    margin-top: 40px;
+    background: #5604AD !important;
+}
+.btn-2 {
+    margin-top: 40px;
+    margin-left: 21px;
+    overflow: hidden;
+    width: 230px;
+    height: 34px;
+    background-color: white !important ;
+    color: black !important;
+    
+}
+.text-baner {
+    width: 100%;
+    min-height:190px ;
+}
+.design {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF !important;
+    position: relative;
+    top: 130px;
+}
+.first-row {
+    width: 100%;
+    min-height: 155px;
+    position: relative;
+}
+.first-col-lg-2 {
+    position: relative;
+
+}
+
+.facebook {
+    position: absolute;
+    max-width: 170px;
+    height: 151px;
+    left: 20px;
+    top: 1.3px;
+}
+.google {
+    position: absolute;
+    max-width: 103px;
+    height: 103px;
+    left: 40px;
+    top: 24px;
+}
+.apple {
+    position: absolute;
+    max-width: 27px;
+    height: 33px;
+    left: 78px;
+    top: 59px;
+}
+.paypal {
+    position: absolute;
+    max-width: 84px;
+    height: 22px;
+    left: 50px;
+    top: 65px;
+}
+.playstation {
+    position: absolute;
+    max-width: 44px;
+    height: 34px;
+    left: 70px;
+    top: 59px;
+}
+.amazon {
+    position: absolute;
+    max-width: 102px;
+    height: 138px;
+    left: 41px;
+    top: 7px
+}
+.implants {
+    font-family: Montserrat-for-main;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    max-width: 369px;
+    text-align: center;
+    height: 29px;
+    height: 39px;
+    width: 100%;
+    color: white !important;
+    margin: auto;
+}
+.text-implants {
+    margin-top: 159px;
+    height: 39px;
+}
+.container-2 {
+    max-width: 1172px;
+    background-blend-mode: black;
+    margin: auto;
+}
+.col-lg-4 {
+    border: 2px solid blueviolet;
+    position: relative;
+    width: 30.2%;
+    margin-left: 10px;
+    margin: auto;
+}
+.sxv {
+    border: 2px solid lightblue !important;
+}
+.kerniz {
+    padding-top: 32px;
+    padding-left: 40.5px;
+    padding-right: 40.5px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.ker-h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+.ker-p
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 49px;
+    margin-bottom: 91px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.ro-2 {
+    position: relative;
+    top: 100px;
+    bottom: 100px;
+    margin: auto;
+}
+.card-text {
+    min-height: 230px;
+    width: 100%;
+}
+.cont {
+    position: relative;
+    left: -43px;
+}
+.cont-second {
+    position: relative;
+    left: 43px;
+}
+.dot {
+    position: relative;
+    top: 120px;
+    left: 50%;
+}
+.swipe {
+    position: relative;
+    top: 370px;
+    display: flex;
+    justify-content: space-between;
+}
+.first-s {
+    position: relative;
+    left: 80px;
+}
+.second-s {
+    position: relative;
+    left: -80px;
+}
+.testimontal {
+    margin-top: 90px;
+}
+.background-image-testiomtal {
+    background-image: url(images/artwork-glasses-glowing-cyberpunk-Cyberpunk-2077-looking-at-viewer-1897613-wallhere\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: color;
+    width: 100%;
+    min-height: 80vh;
+    background-position: center;
+
+}
+.text-box {
+    display: block;
+    min-height: 334px;
+    max-width: 320px;
+    border-radius: nullpx;
+    margin-left: auto;
+    margin-right:  120px;
+    position: relative;
+    top: 87px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+.lern {
+    background-color: #5604AD;
+    color: white !important;
+    margin-top: 50px;
+}
+.text-box-2 {
+    display: block;
+    max-width: 320px;
+    min-height: 40px;
+}
+.ro-3 {
+    margin-top: 90px;
+}
+.col-xl-3 {
+    margin-top: 30px;
+}
+.our-leader {
+    font-family: Montserrat;
+    margin-top: 90px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.card-text {
+    font-family: Montserrat;
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.footer-box {
+    width: 100%;
+    min-height: 500px;
+    margin-top: 100px;
+}
+.fluid {
+    border-top: 2px solid #502356;
+    border-bottom: 2px solid #502356;
+}
+.container-3 {
+    max-width: 1172px;
+    margin: auto;
+    min-height: 420px;
+    
+}
+.container-4 {
+    max-width: 1172px;
+    margin: auto;
+    min-height: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+.left-bar {
+    min-height: 17px;
+    max-width: 330px;
+    left: 122px;
+    top: 450px;
+    border-radius: nullpx;
+    margin-top: 30px;
+}
+.xborg {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: white;
+    text-align: center;
+}
+.xborg:hover {
+    color: #5604AD !important;
+}
+.right-bar{
+    display: flex;
+    gap: 50px;
+    min-height: 17px;
+    max-width: 400px;
+    left: 122px;
+    top: 450px;
+    border-radius: nullpx;
+    margin-top: 30px;
+}
+.box-1 {
+    margin-top: 120px;
+    max-width: 400px;
+    min-height: 200px;
+}
+.logo2 {
+    max-width: 91px;
+    min-height: 48px;
+}
+.inventors {
+    margin-top: 32px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: white !important;
+}
+.svg-s {
+    gap: 56.5px;
+}
+.box {
+    margin-top: 120px;
+    margin-left: 160px;
+    min-height: 200px;
+}
+.navigate {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+    line-height: 20px;
+}
+.box-3 {
+    margin-left: 59px;
+}
+.box-4 {
+    margin-left: 48px;
+}
+.comp {
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
